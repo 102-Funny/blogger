@@ -474,10 +474,7 @@ ul.share-links{position:relative}
 .author-name{font-size:18px;margin:0 0 10px}
 .author-description a{margin:13px 10px 0}
 }
-]]></b:skin>
-
-<b:if cond='data:view.isLayoutMode'>
-<b:template-skin>
+]]>
 <![CDATA[
 /*------Layout (No Edit)----------*/
 body#layout #outer-wrapper,body#layout .row{width:auto;padding:0}
